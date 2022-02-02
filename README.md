@@ -1,4 +1,4 @@
 # CICD
 ------------
 ## SWE Class Jenkins Demo
-this repository is demo
+this repository is demo for test Jenkins
